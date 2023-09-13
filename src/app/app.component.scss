@@ -1,0 +1,32 @@
+ion-header {
+    --background: #000000;
+  }
+  
+  ion-title,
+  ion-label {
+    color: #ffffff;
+  }
+  
+  ion-content {
+    --ion-background-color: #000000;
+    --ion-padding: 16px;
+  
+    ion-label {
+      font-family: 'Lato', sans-serif;
+      margin-bottom: 8px;
+    }
+  
+    ion-item {
+      margin-top: 8px;
+    }
+  
+    ion-button {
+      --background: #ffffff;
+      color: #000000;
+      margin-top: 16px;
+    }
+  
+    ion-input {
+      font-size:  16px;
+}
+  }
